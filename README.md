@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @umarhabib30
-- 👀 I’m interested in ethical hacking
-- 🌱 I’m currently learning bug bounting and penetrating testing
-- 💞️ I’m looking to collaborate on payloads
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning new Web technologies to enhance my capabilites
+- 💞️ I am also doing wordpress web designing
 - 📫 How to reach me through mail
 
 <!---
